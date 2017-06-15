@@ -70,7 +70,7 @@ clfw = RandomForestClassifier(min_impurity_split=0.1, n_jobs = -1, max_depth=15)
 
 scorey = cross_val_score(clfy, x, y, cv=5)
 scorez = cross_val_score(clfz, x, z, cv=12)
-scorez = cross_val_score(clfz, x, z, cv=15)
+scorew = cross_val_score(clfz, x, w, cv=15)
 
 
 clfy = clfy.fit(x,y)
@@ -79,7 +79,7 @@ clfw = clfw.fit(x,w)
 
 """
 creating the temp list and converting 
-it to a numpy array so that th array 
+it to a numpy array so that the array 
 can be reshaped.
 
 Reshaping is done because the data 
