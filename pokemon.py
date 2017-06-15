@@ -6,7 +6,7 @@ from sklearn.model_selection import cross_val_score, train_test_split
 import argparse
 
 """
-Gotcha Catch'em All!
+Gotta Catch'em All!
 This Program brings the cartoon version
 of Pokedex to real life.
 
