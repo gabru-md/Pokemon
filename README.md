@@ -1,4 +1,4 @@
-# Pokémon - Gotcha Catch'em all!
+# Pokémon - Gotta Catch'em all!
 
 # Pokédex
 
