@@ -16,10 +16,11 @@ It contains information about all the Pokemons with their attributes such as Nam
 # Dependencies
 
 ### Following Modules are required
-
-numpy<br>
-sklearn<br>
+```
+numpy
+sklearn
 pandas
+```
 
 #### To install 
 
